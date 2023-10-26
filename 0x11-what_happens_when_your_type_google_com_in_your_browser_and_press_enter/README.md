@@ -9,10 +9,7 @@ answering the classic interview question - "What happens when you type a URL int
 * **0. What happens when...**
   * [0-blog_post](./0-blog_post): Text file containing the link to my blog post.
 
-* **1. Everything's better with a pretty diagram**
-  * [1-what_happen_when_diagram](./1-what_happen_when_diagram): Text file
-  containing the link to a diagram put together to visualize the networking
-  process described in my blog.
+
 
 ## Project Questions and Requirements :☑️
 
@@ -32,7 +29,7 @@ Requirements, your post must cover:
 - Application server
 - Database
 
-Click [here](http://---) to read my article.
+Click [here](https://medium.com/@afadeilou/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-fe9b76459a7a) to read my article.
 
 ### Task 1
 Add a schema to your blog post illustrating the flow of the request created when you type https://www.google.com in your browser and press Enter.\
