@@ -42,5 +42,3 @@ The diagram should show:
 - that the web server answers the request by serving a web page
 - that the application server generates the web page
 - that the application server request data from the database
-
-I hosted the diagram image [here](https://imgbox/...)
